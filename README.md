@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog Preview Card
+# Frontend Mentor - Social Link Profile
 
 ![Design preview for the Mood tracking app coding challenge](./preview.jpg)
 
