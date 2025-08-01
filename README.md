@@ -4,8 +4,8 @@
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/code-monty/social-links-profile.git
+- Live Site URL: https://code-monty.github.io/social-links-profile/
 
 ## Built with
 
